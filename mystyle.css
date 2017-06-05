@@ -32,6 +32,8 @@ a:hover span.note {
   position:fixed;
   margin-left: 60px;
   width:200px;
+  border: 2px solid #782F40;
+  border-radius: 10px;
 }
 
 #footer {
