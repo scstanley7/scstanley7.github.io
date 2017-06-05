@@ -1,0 +1,35 @@
+h1 {
+  color:#CEB888;
+  background-color: #782F40;
+  font-size: 40px;
+  text-decoration: underline;
+  text-indent:30px;
+}
+
+
+a:visited {
+  color:#782F40;
+}
+
+.content{
+  text-align: justify;
+  padding: 30px;
+  clear:both;
+}
+
+.columns {
+  float: left;
+  width: 40%;
+  padding:5%;
+}
+
+span.note {
+  display:none;
+}
+a:hover span.note {
+  background-color: #CEB888;
+  display:block;
+  position:fixed;
+  border:10px;
+  width:200px;
+}
