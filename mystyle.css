@@ -1,8 +1,14 @@
+body {
+  margin:70px;
+  font-family: "Georgia", serif;
+}
+
 h1 {
   font-size: 40px;
+  color: black;
   text-indent:30px;
 }
 
-#content {
+img.headshot {
   float: left;
 }
