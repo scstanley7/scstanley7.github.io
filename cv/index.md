@@ -106,6 +106,7 @@
 * Hunter, Matthew and Sarah Stanley (June 2016).  Adoption of STEM Praxis in the Digital Humanities. Presented at the Keystone Digital Humanities Conference in Pittsburgh, PA
 
 *********
+
 | Skills                                                 | &nbsp;                                                |
 | :----------------------------------------------------- | :---------------------------------------------------- |
 | Knowledge of XML, including the TEI encoding standards | DH Platforms, such as Omeka and Scalar                |
