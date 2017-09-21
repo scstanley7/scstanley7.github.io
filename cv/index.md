@@ -106,12 +106,12 @@
 * Hunter, Matthew and Sarah Stanley (June 2016).  Adoption of STEM Praxis in the Digital Humanities. Presented at the Keystone Digital Humanities Conference in Pittsburgh, PA
 
 *********
-| Skills | &nbsp; |
-| ---------- | --------- |
-| Knowledge of XML, including the TEI encoding standards | Experience with Omeka |
-| Knowledge of XSLT | Experience with Drupal and Wordpress|
-| Knowledge of schema languages, including RELAX NG and Schematron | Experience with Gephi, QGIS, Tableau and other mapping visualization tools |
-| Knowledge of HTML and CSS | Working knowledge of Python and R |
+| Skills                                                 | &nbsp;                                                |
+| :----------------------------------------------------- | :---------------------------------------------------- |
+| Knowledge of XML, including the TEI encoding standards | DH Platforms, such as Omeka and Scalar                |
+| XML transformation tools and languages, like XSLT      | Content Management Systems, like Drupal and Wordpress |
+| Schema languages, including RELAX NG and Schematron    | Visualization with tools, like Gephi, QGIS, Tableau   |
+| Knowledge of HTML and CSS                              | Python and R                                          |
 
 
 
