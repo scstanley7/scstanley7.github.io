@@ -1,8 +1,3 @@
----
-layout: page
-title: Curriculum Vitae
-permalink: /cv/
----
 # Sarah Stanley
 <br/>scstanley7@gmail.com
 <br/>http://scatherinestanley.us 
@@ -117,7 +112,6 @@ permalink: /cv/
 | XML transformation tools and languages, like XSLT      | Content Management Systems, like Drupal and Wordpress |
 | Schema languages, including RELAX NG and Schematron    | Visualization with tools, like Gephi, QGIS, Tableau   |
 | Knowledge of HTML and CSS                              | Python and R                                          |
-
 
 
 
