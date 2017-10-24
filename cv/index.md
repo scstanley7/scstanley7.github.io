@@ -1,8 +1,8 @@
 # Sarah Stanley
 <br/>scstanley7@gmail.com
-<br/>http://scatherinestanley.us 
-<br/>GitHub: https://github.com/scstanley7 
-<br/>ORCID: https://orcid.org/0000-0001-6089-3910 
+<br/>[http://scatherinestanley.us](http://scatherinestanley.us) 
+<br/>GitHub: [https://github.com/scstanley7](https://github.com/scstanley7) 
+<br/>ORCID: [https://orcid.org/0000-0001-6089-3910](https://orcid.org/0000-0001-6089-3910) 
 
 ********
 
