@@ -61,6 +61,12 @@
 
 ********
 
+## Workshops
+
+* Taught Humanities Data Management workshop - September 2019
+
+********
+
 ## Projects and Consultations
 
 * Digital Egyptian Gazette, Florida State University *(September 2016-present)*
