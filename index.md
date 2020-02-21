@@ -10,3 +10,5 @@ Digital Humanities Librarian <br/>Office Of Digital Research and Scholarship <br
 My particular area of focus is text. I currently serve on the [Text Encoding Initiative](http://www.tei-c.org/index.xml) Technical Council, where I work to maintain the Guidelines. I have worked and consulted on several text encoding projects, including the [Women Writers Project](http://wwp.northeastern.edu) and the [Digital Egyptian Gazette](https://dig-eg-gaz.github.io). 
 
 I also do work with text analysis, mapping, prosopographies, and digital collections. For a full list of projects that I currently work with, please see my [CV](cv).
+
+Hello world!
