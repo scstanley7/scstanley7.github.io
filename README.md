@@ -1,1 +1,3 @@
-<p>This repository contains information about me! It has my bio and my CV.</p>
+# Sarah's github.io site
+
+This repository contains information about me! It has my bio and my CV.
