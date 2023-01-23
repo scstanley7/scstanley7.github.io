@@ -1,6 +1,5 @@
 # Sarah Stanley
 <br/>scstanley7@gmail.com
-<br/>[http://scatherinestanley.us](http://scatherinestanley.us) 
 <br/>GitHub: [https://github.com/scstanley7](https://github.com/scstanley7) 
 <br/>ORCID: [https://orcid.org/0000-0001-6089-3910](https://orcid.org/0000-0001-6089-3910) 
 
@@ -8,11 +7,13 @@
 
 ## Education
 
-| Northeastern University (Boston, MA) | August 2015 |
-| -------------------------------------|------------:|
-| M.A. English                         |             |
-| **Ithaca College (Ithaca, NY)**      | **May 2013**|
-| B.A. English                         | &nbsp;      |
+| Florida State University (Tallahassee, FL) | December 2020 |
+| -------------------------------------------|---------------|
+| M.S. Information                           |               |
+| **Northeastern University (Boston, MA)**   | August 2015   |
+| M.A. English                               |               |
+| **Ithaca College (Ithaca, NY)**            | **May 2013**  |
+| B.A. English                               | &nbsp;        |
 
 ********
 
