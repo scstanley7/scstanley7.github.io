@@ -2,8 +2,6 @@
 
 <img src="stanley.jpg" width="200px" height="267px" style="float:right;"/>
 
-This is a test edit!    
-
 Digital Humanities Librarian <br/>Office Of Digital Research and Scholarship <br/>Florida State University <br/>**email**: [scstanley@fsu.edu](mailto:scstanley@fsu.edu) <br/>**GitHub**: [https://github.com/scstanley7](https://github.com/scstanley7) <br/>**Twitter**: [@sarcathtic](https://twitter.com/sarcathtic) <br/>**Website**: [http://scatherinestanley.us](http://scatherinestanley.us)
 <br/>**ORCID**: [https://orcid.org/0000-0001-6089-3910](https://orcid.org/0000-0001-6089-3910) 
 
