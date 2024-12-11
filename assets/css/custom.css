@@ -41,7 +41,8 @@ a {
 }
 
 .container {
-  padding: 150px;
+  padding-left: 150px;
+  padding-top: 50px;
 }
 
 table {
